@@ -75,6 +75,7 @@ collaborators:
   - &koibtw koibtw
   - &TheAnonymousCrusher TheAnonymousCrusher
   - &42willow 42willow
+  - &Lugwiire-Benard Lugwiire-Benard
 
 userstyles:
   advent-of-code:
@@ -296,6 +297,12 @@ userstyles:
     categories: [social_networking]
     color: peach
     current-maintainers: [*ryanccn]
+  fetchmark:
+    name: FetchMark
+    link: https://fetchmarkapp.com
+    categories: [productivity]
+    color: blue
+    current-maintainers: [*Lugwiire-Benard]
   freedesktop:
     name: freedesktop.org
     link: https://www.freedesktop.org
